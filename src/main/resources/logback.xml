@@ -6,8 +6,15 @@
         </encoder>
     </appender>
 
+    <appender name="ALLURE" class="me.kornyshev.utils.AllureAppender">
+        <encoder>
+            <pattern>%date %level [%thread] %logger{10} [%file:%line] %msg%n\n</pattern>
+        </encoder>
+    </appender>
+
     <root level="info">
         <appender-ref ref="STDOUT"/>
+        <appender-ref ref="ALLURE"/>
     </root>
 
 </configuration>
