@@ -14,12 +14,11 @@ import static org.openqa.selenium.support.ui.ExpectedConditions.visibilityOf;
 public class SignUpPageFlow extends SeleniumActions {
 
     SignUpPage signUpPage;
-    WebDriver driver;
 
     public SignUpPageFlow(WebDriver driver) {
         this.driver = driver;
         this.signUpPage = new SignUpPage(driver);
-        this.wait = new WebDriverWait(driver, Duration.ofSeconds(15));
+        this.wait = new WebDriverWait(driver, Duration.ofSeconds(30));
     }
 
     @Step("Set Email value to the field")

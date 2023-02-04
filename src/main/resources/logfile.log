@@ -1,0 +1,630 @@
+2023-01-21 09:09:19,957 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-01-21 09:09:19,966 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-01-21 09:09:20,019 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-01-21 09:09:20,019 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-01-21 09:09:27,245 INFO [main] t.MainNotLoggedInPageTests [MainNotLoggedInPageTests.java:30] Test: Verify text of Log In and Sign Up button
+
+2023-01-21 09:09:27,287 INFO [main] m.k.f.MainNotLoggedInPageFlow [MainNotLoggedInPageFlow.java:42] Getting Log In button text
+
+2023-01-21 09:09:27,835 INFO [main] m.k.f.MainNotLoggedInPageFlow [MainNotLoggedInPageFlow.java:48] Getting Sign Up button text
+
+2023-01-21 09:09:27,965 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:26] After method 'verifyLoginAndSignUpButtonTexts' extension
+
+2023-01-21 09:09:29,143 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-01-21 09:09:29,144 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-01-21 09:09:29,174 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-01-21 09:09:29,175 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-01-21 09:09:32,417 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (2de61f3ca125d3c46c42655738c5fafe)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/pricing']]
+
+2023-01-21 09:09:33,596 INFO [main] t.PricingPageTests [PricingPageTests.java:36] Test: Verify displayed plans on Pricing Page
+
+2023-01-21 09:09:33,600 INFO [main] m.k.f.PricingPageFlow [PricingPageFlow.java:29] Getting displayed plans headers
+
+2023-01-21 09:09:33,863 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:26] After method 'verifyDisplayedPlans' extension
+
+2023-01-21 09:09:34,242 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-01-21 09:09:34,242 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-01-21 09:09:34,269 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-01-21 09:09:34,269 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-01-21 09:09:37,591 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (be7d5ee7754922975f07d92e2a4e56a5)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/signup']]
+
+2023-01-21 09:09:40,944 INFO [main] t.SignUpPageTests [SignUpPageTests.java:36] Test: Verify Title on Sign Up Page
+
+2023-01-21 09:09:40,946 INFO [main] m.k.f.SignUpPageFlow [SignUpPageFlow.java:48] Getting initial title on the page
+
+2023-01-21 09:09:41,025 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (be7d5ee7754922975f07d92e2a4e56a5)] -> css selector: form.sign-up-container input#email]
+
+2023-01-21 09:09:41,227 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (be7d5ee7754922975f07d92e2a4e56a5)] -> css selector: form.sign-up-container input[value='Continue']]
+
+2023-01-21 09:09:41,336 INFO [main] m.k.f.SignUpPageFlow [SignUpPageFlow.java:42] Waiting for Sign Up button
+
+2023-01-21 09:09:46,129 INFO [main] m.k.f.SignUpPageFlow [SignUpPageFlow.java:48] Getting initial title on the page
+
+2023-01-21 09:10:01,188 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:26] After method 'verifyTitleOnSignUpPage' extension
+
+2023-01-21 09:10:01,190 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:28] Let's take a screenshot
+
+2023-01-21 17:15:14,878 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-01-21 17:15:14,889 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-01-21 17:15:14,936 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-01-21 17:15:14,936 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-01-21 17:15:22,237 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (fbeca33e64c832ffcec2a04107d94374)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/signup']]
+
+2023-01-21 17:15:25,145 INFO [main] t.SignUpPageTests [SignUpPageTests.java:36] Test: Verify Title on Sign Up Page
+
+2023-01-21 17:15:25,147 INFO [main] m.k.f.SignUpPageFlow [SignUpPageFlow.java:48] Getting initial title on the page
+
+2023-01-21 17:15:25,700 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (fbeca33e64c832ffcec2a04107d94374)] -> css selector: form.sign-up-container input#email]
+
+2023-01-21 17:15:58,271 INFO [main] m.k.f.SignUpPageFlow [SignUpPageFlow.java:48] Getting initial title on the page
+
+2023-01-21 17:16:31,504 INFO [main] m.k.f.SignUpPageFlow [SignUpPageFlow.java:48] Getting initial title on the page
+
+2023-01-21 17:18:56,157 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: Proxy element for: DefaultElementLocator 'By.cssSelector: form.sign-up-container input[value='Continue']'
+
+2023-01-21 17:19:11,467 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:26] After method 'verifyTitleOnSignUpPage' extension
+
+2023-01-21 17:19:11,468 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:28] Let's take a screenshot
+
+2023-01-21 17:19:38,007 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-01-21 17:19:38,021 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-01-21 17:19:38,087 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-01-21 17:19:38,088 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-01-21 17:19:45,248 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (6c3f6ae5c50aa0e3a0e99d2d0d3946af)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/signup']]
+
+2023-01-21 17:19:47,744 INFO [main] t.SignUpPageTests [SignUpPageTests.java:36] Test: Verify Title on Sign Up Page
+
+2023-01-21 17:19:47,746 INFO [main] m.k.f.SignUpPageFlow [SignUpPageFlow.java:48] Getting initial title on the page
+
+2023-01-21 17:19:48,163 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (6c3f6ae5c50aa0e3a0e99d2d0d3946af)] -> css selector: form.sign-up-container input#email]
+
+2023-01-21 17:19:48,372 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (6c3f6ae5c50aa0e3a0e99d2d0d3946af)] -> css selector: form.sign-up-container input[value='Continue']]
+
+2023-01-21 17:20:12,056 INFO [main] m.k.f.SignUpPageFlow [SignUpPageFlow.java:48] Getting initial title on the page
+
+2023-01-21 17:20:54,234 INFO [main] m.k.f.SignUpPageFlow [SignUpPageFlow.java:48] Getting initial title on the page
+
+2023-01-21 17:20:54,283 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:26] After method 'verifyTitleOnSignUpPage' extension
+
+2023-01-21 18:19:24,910 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-01-21 18:19:24,926 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-01-21 18:19:24,980 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-01-21 18:19:24,981 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-01-21 18:19:33,219 INFO [main] t.MainNotLoggedInPageTests [MainNotLoggedInPageTests.java:30] Test: Verify text of Log In and Sign Up button
+
+2023-01-21 18:19:33,294 INFO [main] m.k.f.MainNotLoggedInPageFlow [MainNotLoggedInPageFlow.java:42] Getting Log In button text
+
+2023-01-21 18:19:34,116 INFO [main] m.k.f.MainNotLoggedInPageFlow [MainNotLoggedInPageFlow.java:48] Getting Sign Up button text
+
+2023-01-21 18:19:34,253 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:26] After method 'verifyLoginAndSignUpButtonTexts' extension
+
+2023-02-01 17:31:35,935 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-01 17:31:35,944 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-01 17:31:35,981 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-01 17:31:35,982 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-01 17:31:42,315 INFO [main] t.MainNotLoggedInPageTests [MainNotLoggedInPageTests.java:31] Test: Verify text of Log In and Sign Up button
+
+2023-02-01 17:31:42,321 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyLoginAndSignUpButtonTexts' extension
+
+2023-02-01 17:31:42,322 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:29] Let's take a screenshot
+
+2023-02-01 17:33:03,074 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-01 17:33:03,086 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-01 17:33:03,135 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-01 17:33:03,136 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-01 17:33:09,844 INFO [main] t.MainNotLoggedInPageTests [MainNotLoggedInPageTests.java:31] Test: Verify text of Log In and Sign Up button
+
+2023-02-01 17:33:09,849 ERROR [main] m.k.p.PropertyLoader [PropertyLoader.java:17] Something went wrong: {}
+
+java.io.FileNotFoundException: user.properties (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:111)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at me.kornyshev.properties.PropertyLoader.<clinit>(PropertyLoader.java:14)
+	at tests.MainNotLoggedInPageTests.verifyLoginAndSignUpButtonTexts(MainNotLoggedInPageTests.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:727)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:217)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:213)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:138)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:107)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86)
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54)
+2023-02-01 17:33:09,859 INFO [main] t.MainNotLoggedInPageTests [MainNotLoggedInPageTests.java:32] null
+
+2023-02-01 17:33:09,861 INFO [main] t.MainNotLoggedInPageTests [MainNotLoggedInPageTests.java:33] null
+
+2023-02-01 17:33:09,862 INFO [main] t.MainNotLoggedInPageTests [MainNotLoggedInPageTests.java:34] null
+
+2023-02-01 17:33:09,897 INFO [main] m.k.f.MainNotLoggedInPageFlow [MainNotLoggedInPageFlow.java:42] Getting Log In button text
+
+2023-02-01 17:33:10,464 INFO [main] m.k.f.MainNotLoggedInPageFlow [MainNotLoggedInPageFlow.java:48] Getting Sign Up button text
+
+2023-02-01 17:33:10,562 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyLoginAndSignUpButtonTexts' extension
+
+2023-02-01 17:33:51,212 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-01 17:33:51,222 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-01 17:33:51,266 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-01 17:33:51,267 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-01 17:33:57,737 INFO [main] t.MainNotLoggedInPageTests [MainNotLoggedInPageTests.java:31] Test: Verify text of Log In and Sign Up button
+
+2023-02-01 17:33:57,742 INFO [main] t.MainNotLoggedInPageTests [MainNotLoggedInPageTests.java:32] Java Automation
+
+2023-02-01 17:33:57,744 INFO [main] t.MainNotLoggedInPageTests [MainNotLoggedInPageTests.java:33] fovite6438@brandoza.com
+
+2023-02-01 17:33:57,746 INFO [main] t.MainNotLoggedInPageTests [MainNotLoggedInPageTests.java:34] 69ZvPJbRwebRHk9
+
+2023-02-01 17:33:57,784 INFO [main] m.k.f.MainNotLoggedInPageFlow [MainNotLoggedInPageFlow.java:42] Getting Log In button text
+
+2023-02-01 17:33:58,262 INFO [main] m.k.f.MainNotLoggedInPageFlow [MainNotLoggedInPageFlow.java:48] Getting Sign Up button text
+
+2023-02-01 17:33:58,340 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyLoginAndSignUpButtonTexts' extension
+
+2023-02-01 17:41:43,768 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-01 17:41:43,776 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-01 17:41:43,810 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-01 17:41:43,811 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-01 17:41:49,209 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (4cd10dfc82c38cb0409397f334d42e4e)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/login']]
+
+2023-02-01 17:51:43,021 INFO [main] t.LogInTests [LogInTests.java:27] We are at Log In form
+
+2023-02-01 17:51:43,027 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyLogIn' extension
+
+2023-02-04 18:10:56,352 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-04 18:10:56,365 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:10:56,405 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-04 18:10:56,405 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:11:05,060 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (924663b365b22816915e34f6d6677059)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/login']]
+
+2023-02-04 18:11:07,658 INFO [main] t.LogInTests [LogInTests.java:38] We are at Log In form
+
+2023-02-04 18:11:07,682 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (924663b365b22816915e34f6d6677059)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-04 18:11:07,812 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (924663b365b22816915e34f6d6677059)] -> css selector: form#login-form input[value='Continue']]
+
+2023-02-04 18:11:07,915 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (924663b365b22816915e34f6d6677059)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-04 18:11:23,458 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyLogInAsUser' extension
+
+2023-02-04 18:11:23,460 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:29] Let's take a screenshot
+
+2023-02-04 18:13:45,444 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-04 18:13:45,462 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:13:45,514 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-04 18:13:45,514 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:13:53,124 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (d2e1b6b70d94b016aef89c4b34b874dd)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/login']]
+
+2023-02-04 18:13:55,713 INFO [main] t.LogInTests [LogInTests.java:38] We are at Log In form
+
+2023-02-04 18:13:55,732 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (d2e1b6b70d94b016aef89c4b34b874dd)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-04 18:13:55,852 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (d2e1b6b70d94b016aef89c4b34b874dd)] -> css selector: form#login-form input[value='Continue']]
+
+2023-02-04 18:14:11,483 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyLogInAsUser' extension
+
+2023-02-04 18:14:11,485 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:29] Let's take a screenshot
+
+2023-02-04 18:15:24,144 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-04 18:15:24,160 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:15:24,228 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-04 18:15:24,229 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:15:32,881 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (78854a93b25278a0649a4acdefc1bdfb)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/login']]
+
+2023-02-04 18:15:35,703 INFO [main] t.LogInTests [LogInTests.java:38] We are at Log In form
+
+2023-02-04 18:15:35,722 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (78854a93b25278a0649a4acdefc1bdfb)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-04 18:15:35,837 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (78854a93b25278a0649a4acdefc1bdfb)] -> css selector: form#login-form input[value='Continue']]
+
+2023-02-04 18:16:06,053 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyLogInAsUser' extension
+
+2023-02-04 18:16:06,056 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:29] Let's take a screenshot
+
+2023-02-04 18:16:21,166 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-04 18:16:21,179 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:16:21,233 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-04 18:16:21,234 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:16:28,983 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (013fabeed2acd23ccdaf323afafee25c)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/login']]
+
+2023-02-04 18:16:31,821 INFO [main] t.LogInTests [LogInTests.java:38] We are at Log In form
+
+2023-02-04 18:16:31,839 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (013fabeed2acd23ccdaf323afafee25c)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-04 18:16:31,954 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (013fabeed2acd23ccdaf323afafee25c)] -> css selector: form#login-form input[value='Continue']]
+
+2023-02-04 18:17:20,542 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: Proxy element for: DefaultElementLocator 'By.cssSelector: form#login-form input[placeholder='Enter password']'
+
+2023-02-04 18:20:45,734 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-04 18:20:45,743 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:20:45,779 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-04 18:20:45,779 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:20:52,867 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (52a3d3117279a23ef075b423459eb808)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/login']]
+
+2023-02-04 18:20:55,546 INFO [main] t.LogInTests [LogInTests.java:38] We are at Log In form
+
+2023-02-04 18:20:55,564 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (52a3d3117279a23ef075b423459eb808)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-04 18:20:55,684 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (52a3d3117279a23ef075b423459eb808)] -> css selector: form#login-form input[value='Continue']]
+
+2023-02-04 18:20:55,780 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (52a3d3117279a23ef075b423459eb808)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-04 18:21:25,930 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyLogInAsUser' extension
+
+2023-02-04 18:21:25,932 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:29] Let's take a screenshot
+
+2023-02-04 18:22:15,722 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-04 18:22:15,733 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:22:15,785 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-04 18:22:15,786 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:22:23,320 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (9e251bf752d17664d650b6d4848ec108)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/login']]
+
+2023-02-04 18:22:26,039 INFO [main] t.LogInTests [LogInTests.java:38] We are at Log In form
+
+2023-02-04 18:22:26,057 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (9e251bf752d17664d650b6d4848ec108)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-04 18:22:26,170 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (9e251bf752d17664d650b6d4848ec108)] -> css selector: form#login-form input[value='Continue']]
+
+2023-02-04 18:22:30,016 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: Proxy element for: DefaultElementLocator 'By.cssSelector: form#login-form input[placeholder='Enter email']'
+
+2023-02-04 18:23:00,192 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyLogInAsUser' extension
+
+2023-02-04 18:23:00,194 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:29] Let's take a screenshot
+
+2023-02-04 18:24:46,565 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-04 18:24:46,574 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:24:46,613 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-04 18:24:46,614 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:24:53,011 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (4fb56a7640beeb1809ac1743b1cfe189)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/login']]
+
+2023-02-04 18:24:55,843 INFO [main] t.LogInTests [LogInTests.java:38] We are at Log In form
+
+2023-02-04 18:24:55,862 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (4fb56a7640beeb1809ac1743b1cfe189)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-04 18:24:55,989 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (4fb56a7640beeb1809ac1743b1cfe189)] -> css selector: form#login-form input[value='Continue']]
+
+2023-02-04 18:24:59,950 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (4fb56a7640beeb1809ac1743b1cfe189)] -> css selector: form input[placeholder='Enter password']]
+
+2023-02-04 18:25:00,100 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: Proxy element for: DefaultElementLocator 'By.cssSelector: form#login-form button#login-submit'
+
+2023-02-04 18:25:30,271 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyLogInAsUser' extension
+
+2023-02-04 18:25:30,272 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:29] Let's take a screenshot
+
+2023-02-04 18:26:02,781 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-04 18:26:02,795 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:26:02,858 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-04 18:26:02,859 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:26:10,743 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (5d7327fa3fa193cac104aaedfd942a08)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/login']]
+
+2023-02-04 18:26:13,465 INFO [main] t.LogInTests [LogInTests.java:38] We are at Log In form
+
+2023-02-04 18:26:13,486 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (5d7327fa3fa193cac104aaedfd942a08)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-04 18:26:13,636 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (5d7327fa3fa193cac104aaedfd942a08)] -> css selector: form#login-form input[value='Continue']]
+
+2023-02-04 18:26:17,551 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (5d7327fa3fa193cac104aaedfd942a08)] -> css selector: form input[placeholder='Enter password']]
+
+2023-02-04 18:26:17,724 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (5d7327fa3fa193cac104aaedfd942a08)] -> css selector: form button#login-submit]
+
+2023-02-04 18:36:26,469 INFO [main] t.LogInTests [LogInTests.java:40] User is logged in
+
+2023-02-04 18:36:26,479 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyLogInAsUser' extension
+
+2023-02-04 18:36:56,676 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-04 18:36:56,686 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:36:56,728 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-04 18:36:56,728 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:37:04,305 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (2424df53d5bdf814e581ee3b86a80bd7)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/login']]
+
+2023-02-04 18:37:07,168 INFO [main] t.LogInTests [LogInTests.java:41] We are at Log In form
+
+2023-02-04 18:37:07,193 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (2424df53d5bdf814e581ee3b86a80bd7)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-04 18:37:07,359 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (2424df53d5bdf814e581ee3b86a80bd7)] -> css selector: form#login-form input[value='Continue']]
+
+2023-02-04 18:37:11,128 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (2424df53d5bdf814e581ee3b86a80bd7)] -> css selector: form input[placeholder='Enter password']]
+
+2023-02-04 18:37:11,287 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (2424df53d5bdf814e581ee3b86a80bd7)] -> css selector: form button#login-submit]
+
+2023-02-04 18:37:20,876 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyLogInAsUser' extension
+
+2023-02-04 18:42:58,538 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-04 18:42:58,547 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:42:58,587 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-04 18:42:58,587 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:43:04,632 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (91ee5d96fd9c9023bdf7341399bd1b4d)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/login']]
+
+2023-02-04 18:43:07,278 INFO [main] t.LogInTests [LogInTests.java:36] We are at Log In form
+
+2023-02-04 18:43:07,300 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (91ee5d96fd9c9023bdf7341399bd1b4d)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-04 18:43:07,445 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (91ee5d96fd9c9023bdf7341399bd1b4d)] -> css selector: form#login-form input[value='Continue']]
+
+2023-02-04 18:43:11,401 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (91ee5d96fd9c9023bdf7341399bd1b4d)] -> css selector: form input[placeholder='Enter password']]
+
+2023-02-04 18:43:11,523 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (91ee5d96fd9c9023bdf7341399bd1b4d)] -> css selector: form button#login-submit]
+
+2023-02-04 18:43:20,728 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyLogInAsUser' extension
+
+2023-02-04 18:47:55,284 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-04 18:47:55,296 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:47:55,332 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-04 18:47:55,333 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 18:47:55,436 INFO [main] t.BaseTests [BaseTests.java:26] Creating Driver object...
+
+2023-02-04 18:48:01,419 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (a820f86da48ddd37a18a8e1073a0897b)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/login']]
+
+2023-02-04 18:48:04,145 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (a820f86da48ddd37a18a8e1073a0897b)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-04 18:48:04,267 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (a820f86da48ddd37a18a8e1073a0897b)] -> css selector: form#login-form input[value='Continue']]
+
+2023-02-04 18:48:07,886 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:22] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (a820f86da48ddd37a18a8e1073a0897b)] -> css selector: form input[placeholder='Enter password']]
+
+2023-02-04 18:48:08,033 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: [[ChromeDriver: chrome on WINDOWS (a820f86da48ddd37a18a8e1073a0897b)] -> css selector: form button#login-submit]
+
+2023-02-04 18:48:08,139 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:16] Wait and click element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='boards-page-board-section-header']/following-sibling::div//span[contains(text(), 'Create new board')]/ancestor::div[1]'
+
+2023-02-04 18:57:43,909 INFO [main] t.BoardTests [BoardTests.java:38] Creating Board on modal window
+
+2023-02-04 18:57:43,916 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyBoardsCreation' extension
+
+2023-02-04 18:57:44,007 WARN [AsyncHttpClient-1-4] o.a.n.h.WebSocketHandler [WebSocketHandler.java:142] onError
+
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:259)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-02-04 19:02:33,529 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-04 19:02:33,537 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 19:02:33,573 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-04 19:02:33,574 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 19:02:33,675 INFO [main] t.BaseTests [BaseTests.java:26] Creating Driver object...
+
+2023-02-04 19:02:39,586 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (246f14e565a358b3a5382b39278dc915)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/login']]
+
+2023-02-04 19:02:42,348 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:24] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (246f14e565a358b3a5382b39278dc915)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-04 19:02:42,466 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (246f14e565a358b3a5382b39278dc915)] -> css selector: form#login-form input[value='Continue']]
+
+2023-02-04 19:02:46,020 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:24] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (246f14e565a358b3a5382b39278dc915)] -> css selector: form input[placeholder='Enter password']]
+
+2023-02-04 19:02:46,163 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (246f14e565a358b3a5382b39278dc915)] -> css selector: form button#login-submit]
+
+2023-02-04 19:02:46,276 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='boards-page-board-section-header']/following-sibling::div//span[contains(text(), 'Create new board')]/ancestor::div[1]'
+
+2023-02-04 19:02:54,940 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:24] Wait and set value to element: Proxy element for: DefaultElementLocator 'By.cssSelector: section form input[data-testid='create-board-title-input']'
+
+2023-02-04 19:02:55,711 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (246f14e565a358b3a5382b39278dc915)] -> css selector: section form button[data-testid='create-board-submit-button']]
+
+2023-02-04 19:02:59,464 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:24] Wait and set value to element: Proxy element for: DefaultElementLocator 'By.cssSelector: section form input[data-testid='create-board-title-input']'
+
+2023-02-04 19:03:14,686 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyBoardsCreation' extension
+
+2023-02-04 19:03:14,688 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:29] Let's take a screenshot
+
+2023-02-04 19:06:12,272 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-04 19:06:12,281 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 19:06:12,318 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-04 19:06:12,319 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 19:06:12,427 INFO [main] t.BaseTests [BaseTests.java:26] Creating Driver object...
+
+2023-02-04 19:06:18,768 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (61798dd03a938b6d83e9673421a317b2)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/login']]
+
+2023-02-04 19:06:22,288 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:24] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (61798dd03a938b6d83e9673421a317b2)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-04 19:06:22,401 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (61798dd03a938b6d83e9673421a317b2)] -> css selector: form#login-form input[value='Continue']]
+
+2023-02-04 19:06:26,189 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:24] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (61798dd03a938b6d83e9673421a317b2)] -> css selector: form input[placeholder='Enter password']]
+
+2023-02-04 19:06:26,313 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (61798dd03a938b6d83e9673421a317b2)] -> css selector: form button#login-submit]
+
+2023-02-04 19:08:54,590 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (61798dd03a938b6d83e9673421a317b2)] -> xpath: //div[@class='boards-page-board-section-header']/following-sibling::div//span[contains(text(), 'Create new board')]/ancestor::div[1]]
+
+2023-02-04 19:12:46,737 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-04 19:12:46,744 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 19:12:46,780 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-04 19:12:46,781 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-04 19:12:46,891 INFO [main] t.BaseTests [BaseTests.java:26] Creating Driver object...
+
+2023-02-04 19:12:53,128 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (0c19964f64c4e428edf4c4ee377f6b80)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/login']]
+
+2023-02-04 19:12:55,825 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:24] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (0c19964f64c4e428edf4c4ee377f6b80)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-04 19:12:55,937 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (0c19964f64c4e428edf4c4ee377f6b80)] -> css selector: form#login-form input[value='Continue']]
+
+2023-02-04 19:12:59,691 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:24] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (0c19964f64c4e428edf4c4ee377f6b80)] -> css selector: form input[placeholder='Enter password']]
+
+2023-02-04 19:12:59,835 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (0c19964f64c4e428edf4c4ee377f6b80)] -> css selector: form button#login-submit]
+
+2023-02-04 19:12:59,960 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='boards-page-board-section-header']/following-sibling::div//span[contains(text(), 'Create new board')]/ancestor::div[1]'
+
+2023-02-04 19:13:09,105 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:24] Wait and set value to element: Proxy element for: DefaultElementLocator 'By.cssSelector: section form input[data-testid='create-board-title-input']'
+
+2023-02-04 19:13:09,856 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (0c19964f64c4e428edf4c4ee377f6b80)] -> css selector: section form button[data-testid='create-board-submit-button']]
+
+2023-02-04 19:13:13,411 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (0c19964f64c4e428edf4c4ee377f6b80)] -> xpath: //div[@class='boards-page-board-section-header']/following-sibling::div//span[contains(text(), 'Create new board')]/ancestor::div[1]]
+
+2023-02-04 19:13:13,631 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:24] Wait and set value to element: Proxy element for: DefaultElementLocator 'By.cssSelector: section form input[data-testid='create-board-title-input']'
+
+2023-02-04 19:13:13,915 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (0c19964f64c4e428edf4c4ee377f6b80)] -> css selector: section form button[data-testid='create-board-submit-button']]
+
+2023-02-04 19:13:16,606 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='boards-page-board-section-header']/following-sibling::div//span[contains(text(), 'Create new board')]/ancestor::div[1]'
+
+2023-02-04 19:13:18,266 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:24] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (0c19964f64c4e428edf4c4ee377f6b80)] -> css selector: section form input[data-testid='create-board-title-input']]
+
+2023-02-04 19:13:18,478 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (0c19964f64c4e428edf4c4ee377f6b80)] -> css selector: section form button[data-testid='create-board-submit-button']]
+
+2023-02-04 21:49:54,549 INFO [main] t.BoardTests [BoardTests.java:43] Three boards are created
+
+2023-02-04 21:49:54,558 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyBoardsCreation' extension
+
