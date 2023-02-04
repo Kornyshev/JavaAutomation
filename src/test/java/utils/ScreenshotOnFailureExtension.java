@@ -32,9 +32,4 @@ public class ScreenshotOnFailureExtension implements AfterTestExecutionCallback 
         }
     }
 
-    @Attachment(value = "{testName} - screenshot", type = "image/png")
-    private byte[] makeScreenshotOnFailure(String testName) {
-        return ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
-    }
-
 }
