@@ -11,7 +11,7 @@ public class SignUpPage {
 
     private final WebDriver driver;
 
-    @FindBy(css = "div#signup-form div#login-prompt + h1")
+    @FindBy(css = "div#signup-form div#login-prompt + h1, section div h5")
     private WebElement title;
 
     @FindBy(css = "form.sign-up-container input#email")

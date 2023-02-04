@@ -16,7 +16,6 @@ import static org.openqa.selenium.support.ui.ExpectedConditions.visibilityOf;
 public class PricingPageFlow extends SeleniumActions {
 
     PricingPage pricingPage;
-    WebDriver driver;
 
     public PricingPageFlow(WebDriver driver) {
         this.driver = driver;

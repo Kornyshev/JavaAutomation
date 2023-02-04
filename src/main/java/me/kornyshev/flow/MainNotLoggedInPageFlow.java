@@ -14,7 +14,6 @@ import static org.openqa.selenium.support.ui.ExpectedConditions.visibilityOf;
 public class MainNotLoggedInPageFlow extends SeleniumActions {
 
     MainNotLoggedInPage mainNotLoggedInPage;
-    WebDriver driver;
 
     public MainNotLoggedInPageFlow(WebDriver driver) {
         this.driver = driver;
@@ -29,7 +28,7 @@ public class MainNotLoggedInPageFlow extends SeleniumActions {
 
     @Step("Click Pricing link")
     public void clickPricingLink() {
-        click(mainNotLoggedInPage.getPricingLink());
+        wait.until(visibilityOf(mainNotLoggedInPage.getPricingLink())).click();
     }
 
     @Step("Click Sign Up button")
