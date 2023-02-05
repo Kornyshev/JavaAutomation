@@ -10,6 +10,10 @@ import me.kornyshev.utils.DataUtils;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import java.util.List;
+
+import static org.assertj.core.api.Assertions.assertThat;
+
 @Slf4j
 public class BoardTests extends BaseTests {
 
@@ -33,14 +37,11 @@ public class BoardTests extends BaseTests {
     void verifyBoardsCreation() {
         String board1 = "Board" + DataUtils.timestamp();
         String board2 = "Board" + DataUtils.timestamp();
-        String board3 = "Board" + DataUtils.timestamp();
         mainLoggedInPageFlow.performBoardCreationWithTitle(board1);
         mainLoggedInPageFlow.navigateBack();
         mainLoggedInPageFlow.performBoardCreationWithTitle(board2);
         mainLoggedInPageFlow.navigateBack();
-        mainLoggedInPageFlow.performBoardCreationWithTitle(board3);
-        mainLoggedInPageFlow.navigateBack();
-        log.info("Three boards are created");
+        assertThat(mainLoggedInPageFlow.getCreatedBoardsFromPage()).containsAll(List.of(board1, board2));
     }
 
 }

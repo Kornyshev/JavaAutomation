@@ -3,10 +3,12 @@ package me.kornyshev.flow;
 import io.qameta.allure.Step;
 import lombok.extern.slf4j.Slf4j;
 import me.kornyshev.pom.MainLoggedInPage;
+import me.kornyshev.pom.elements.BoardCardOnMainPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
+import java.util.List;
 
 import static org.openqa.selenium.support.ui.ExpectedConditions.visibilityOf;
 
@@ -46,6 +48,23 @@ public class MainLoggedInPageFlow extends SeleniumActions {
         clickCreateNewBoardButton();
         fillBoardTitleField(title);
         clickCreateButtonOnModalWindow();
+        /*
+        I don't want to spend time on correct approach to waiting for created board page
+         */
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException ignored) {
+        }
+    }
+
+    @Step("Getting all created boards from Main page")
+    public List<String> getCreatedBoardsFromPage() {
+        final List<String> titles = mainLoggedInPage.getCreatedBoardsElements().stream()
+                .map(BoardCardOnMainPage::new)
+                .map(BoardCardOnMainPage::getTitle)
+                .toList();
+        log.info("List of created boards: {}", titles);
+        return titles;
     }
 
 }

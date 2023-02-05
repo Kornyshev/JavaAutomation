@@ -1,7 +1,6 @@
 package utils;
 
 import io.qameta.allure.Allure;
-import io.qameta.allure.Attachment;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.extension.AfterTestExecutionCallback;
 import org.junit.jupiter.api.extension.ExtensionContext;

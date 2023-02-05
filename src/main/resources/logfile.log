@@ -628,3 +628,37 @@ java.net.SocketException: Connection reset
 
 2023-02-04 21:49:54,558 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:27] After method 'verifyBoardsCreation' extension
 
+2023-02-05 22:31:41,348 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+
+2023-02-05 22:31:41,358 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-05 22:31:41,391 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\Evgeniy_Kornyshev.EPAM\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+
+2023-02-05 22:31:41,391 ERROR [main] i.q.a.AllureLifecycle [AllureLifecycle.java:609] Could not add attachment: no test is running
+
+2023-02-05 22:31:41,473 INFO [main] t.BaseTests [BaseTests.java:26] Creating Driver object...
+
+2023-02-05 22:31:46,348 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (2f3b8200602290c8da57db9ad304c581)] -> xpath: //div[contains(@class, 'NavBar')]//a[@href='/login']]
+
+2023-02-05 22:31:48,077 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:24] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (2f3b8200602290c8da57db9ad304c581)] -> css selector: form#login-form input[placeholder='Enter email']]
+
+2023-02-05 22:31:48,223 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (2f3b8200602290c8da57db9ad304c581)] -> css selector: form#login-form input[value='Continue']]
+
+2023-02-05 22:31:50,683 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:24] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (2f3b8200602290c8da57db9ad304c581)] -> css selector: form input[placeholder='Enter password']]
+
+2023-02-05 22:31:50,808 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (2f3b8200602290c8da57db9ad304c581)] -> css selector: form button#login-submit]
+
+2023-02-05 22:31:50,933 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='boards-page-board-section-header']/following-sibling::div//span[contains(text(), 'Create new board')]/ancestor::div[1]'
+
+2023-02-05 22:31:57,533 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:24] Wait and set value to element: Proxy element for: DefaultElementLocator 'By.cssSelector: section form input[data-testid='create-board-title-input']'
+
+2023-02-05 22:31:58,382 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (2f3b8200602290c8da57db9ad304c581)] -> css selector: section form button[data-testid='create-board-submit-button']]
+
+2023-02-05 22:32:01,815 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (2f3b8200602290c8da57db9ad304c581)] -> xpath: //div[@class='boards-page-board-section-header']/following-sibling::div//span[contains(text(), 'Create new board')]/ancestor::div[1]]
+
+2023-02-05 22:32:01,990 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:24] Wait and set value to element: [[ChromeDriver: chrome on WINDOWS (2f3b8200602290c8da57db9ad304c581)] -> css selector: section form input[data-testid='create-board-title-input']]
+
+2023-02-05 22:32:02,240 INFO [main] m.k.f.SeleniumActions [SeleniumActions.java:18] Wait and click element: [[ChromeDriver: chrome on WINDOWS (2f3b8200602290c8da57db9ad304c581)] -> css selector: section form button[data-testid='create-board-submit-button']]
+
+2023-02-05 22:32:06,093 INFO [main] u.ScreenshotOnFailureExtension [ScreenshotOnFailureExtension.java:26] After method 'verifyBoardsCreation' extension
+

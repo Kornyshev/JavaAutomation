@@ -6,6 +6,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import java.util.List;
+
 @Getter
 public class MainLoggedInPage {
 
@@ -20,7 +22,7 @@ public class MainLoggedInPage {
     @FindBy(css = "section form button[data-testid='create-board-submit-button']")
     private WebElement createButtonOnModalWindow;
     @FindBy(xpath = "//div[@class='boards-page-board-section-header']/following-sibling::div//li[@class='boards-page-board-section-list-item']/a")
-    private WebElement createdBoardsElements;
+    private List<WebElement> createdBoardsElements;
 
     public MainLoggedInPage(WebDriver driver) {
         this.driver = driver;
